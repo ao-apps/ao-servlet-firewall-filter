@@ -39,5 +39,4 @@ along with ao-servlet-firewall-filter.  If not, see <http://www.gnu.org/licenses
 		datePublished="2018-06-09T15:28:56-0500"
 		dateModified="${ao:getLastModified('index.html')}"
 	/>
-	<!-- TODO: Pick-up javadocs version, not pom version, in title, here and elsewhere -->
 </jsp:root>
