@@ -62,8 +62,6 @@ along with ao-servlet-firewall-filter.  If not, see <http://www.gnu.org/licenses
 							<links>
 								<link>${javac.link.javaApi}</link>
 								<!-- Direct -->
-								<link>https://aoindustries.com/ao-lang/apidocs/</link>
-								<link>https://aoindustries.com/ao-servlet-firewall/rules/apidocs/</link>
 							</links>
 						</configuration>
 					</plugin>
@@ -75,22 +73,10 @@ along with ao-servlet-firewall-filter.  If not, see <http://www.gnu.org/licenses
 	<dependencyManagement>
 		<dependencies>
 			<!-- Direct -->
-			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId><version>3.0.1-SNAPSHOT</version>
-			</dependency>
-			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-servlet-firewall-rules</artifactId><version>1.0.0-SNAPSHOT</version>
-			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
 	<dependencies>
 		<!-- Direct -->
-		<dependency>
-			<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.aoindustries</groupId><artifactId>ao-servlet-firewall-rules</artifactId>
-		</dependency>
 	</dependencies>
 </project>
