@@ -35,8 +35,6 @@ along with ao-servlet-firewall-filter.  If not, see <http://www.gnu.org/licenses
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.artifactId>ao-servlet-firewall-filter</documented.artifactId>
-		<documented.javaVersion>1.8</documented.javaVersion>
-		<documented.javac.link.javaApi>${javac.link.javaApi.jdk8}</documented.javac.link.javaApi>
 		<documented.name>AO Servlet Firewall Filter</documented.name>
 		<documented.shortTitle>Filter</documented.shortTitle>
 		<documented.description>Servlet filter performing servlet-based application request filtering.</documented.description>
