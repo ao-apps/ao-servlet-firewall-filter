@@ -9,6 +9,7 @@
 [![license: LGPL v3](https://oss.aoapps.com/ao-badges/license-lgpl-3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 [![Build](https://github.com/aoindustries/ao-servlet-firewall-filter/workflows/Build/badge.svg?branch=master)](https://github.com/aoindustries/ao-servlet-firewall-filter/actions?query=workflow%3ABuild)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.aoapps/ao-servlet-firewall-filter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.aoapps/ao-servlet-firewall-filter)
 
 Servlet filter performing servlet-based application request filtering.
 
