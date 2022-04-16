@@ -1,6 +1,6 @@
 /*
  * ao-servlet-firewall-filter - Servlet filter performing servlet-based application request filtering.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -20,6 +20,7 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with ao-servlet-firewall-filter.  If not, see <https://www.gnu.org/licenses/>.
  */
+
 package com.aoapps.servlet.firewall.filter;
 
 /**
