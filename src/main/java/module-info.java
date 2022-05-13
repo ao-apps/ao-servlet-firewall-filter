@@ -22,4 +22,4 @@
  */
 module com.aoapps.servlet.firewall.filter {
   exports com.aoapps.servlet.firewall.filter;
-} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
+}
