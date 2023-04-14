@@ -23,7 +23,7 @@ Servlet filter performing servlet-based application request filtering.
 * [Project Home](https://oss.aoapps.com/servlet-firewall/filter/)
 * [Changelog](https://oss.aoapps.com/servlet-firewall/filter/changelog)
 * [API Docs](https://oss.aoapps.com/servlet-firewall/filter/apidocs/)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.aoapps&q=a%3Aao-servlet-firewall-filter)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.aoapps/ao-servlet-firewall-filter)
 * [GitHub](https://github.com/ao-apps/ao-servlet-firewall-filter)
 
 ## Features
