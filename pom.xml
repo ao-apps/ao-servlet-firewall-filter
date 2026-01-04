@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 ao-servlet-firewall-filter - Servlet filter performing servlet-based application request filtering.
-Copyright (C) 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025  AO Industries, Inc.
+Copyright (C) 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -39,6 +39,9 @@ along with ao-servlet-firewall-filter.  If not, see <https://www.gnu.org/license
     <javadoc.breadcrumbs><![CDATA[<a target="${javadoc.target}" href="https://oss.aoapps.com/">AO OSS</a>
 / <a target="${javadoc.target}" href="https://oss.aoapps.com/servlet-firewall/">Servlet Firewall</a>
 / <a target="${javadoc.target}" href="${project.url}">Filter</a>]]></javadoc.breadcrumbs>
+    <!-- Jakarta EE 10 -->
+    <javaee.version>10</javaee.version>
+    <javadoc.link.javaee>${javadoc.link.jakartaee.10}</javadoc.link.javaee>
   </properties>
 
   <name>AO Servlet Firewall Filter</name>
